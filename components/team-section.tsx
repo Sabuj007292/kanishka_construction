@@ -4,7 +4,7 @@ const teamMembers = [
   {
     name: "Subrato Sarkar",
     position: "Founder & CEO",
-    image: "/professional-construction-ceo-headshot.jpg",
+    image: "/subrato_sarkar.png",
     description:
       "With over 10 years in construction management, Michael founded Kanishka Construction with a vision to revolutionize the industry through quality craftsmanship and innovative building solutions. He holds a Master's in Civil Engineering and is a certified Project Management Professional.",
   },
