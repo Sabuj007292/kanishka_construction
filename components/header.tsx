@@ -32,7 +32,7 @@ export function Header() {
             <Link href="/about" className="text-foreground hover:text-accent transition-colors">
               About
             </Link>
-            <a href="/#contact" className="text-foreground hover:text-accent transition-colors">
+            <a href="/contact" className="text-foreground hover:text-accent transition-colors">
               Contact
             </a>
           </nav>
@@ -68,7 +68,7 @@ export function Header() {
               <Link href="/about" className="text-foreground hover:text-accent transition-colors">
                 About
               </Link>
-              <a href="/#contact" className="text-foreground hover:text-accent transition-colors">
+              <a href="/contact" className="text-foreground hover:text-accent transition-colors">
                 Contact
               </a>
               <div className="pt-4 border-t border-border">
