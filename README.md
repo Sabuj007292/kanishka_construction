@@ -1,4 +1,4 @@
-# XYZ Construction - Professional Construction Services
+# Kanishka Construction - Professional Construction Services
 
 *Built with Next.js, TypeScript, and Tailwind CSS*
 
